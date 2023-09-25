@@ -1,4 +1,6 @@
 # Postman Collection Example
+## API testing collection.postman_collection.json
+[API testing collection.postman_collection.json](https://github.com/BugBusterQA/postman/blob/main/API%20testing%20collection.postman_collection.json)
 [Exported API testing collection](https://drive.google.com/file/d/144YcGOKKUVpMoLR5aHbUAG7_W3ziURSC/view?usp=sharing)
 
 ## Tests for all request
