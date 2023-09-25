@@ -1,5 +1,5 @@
 # Postman Collection Example
-
+## Exported JSON file
 ### GitHub - API testing collection.postman_collection.json
 [API testing collection.postman_collection.json](https://github.com/BugBusterQA/postman/blob/main/API%20testing%20collection.postman_collection.json)
 ### Google Drive - API testing collection.postman_collection.json
